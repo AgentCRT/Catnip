@@ -1,0 +1,13 @@
+{
+  "alertEnabled": false,
+  "alertContent": "",
+  "alertSeverity": 1,
+  "killFlags": false,
+  "deeplinkUrl": "https://github.com/AgentCRT/Catnip",
+  "ignoredPackages": ["RobloxPlayerInstaller.exe"],
+  "packageMaps": {
+    "common": {},
+    "player": {},
+    "studio": {}
+  }
+}
